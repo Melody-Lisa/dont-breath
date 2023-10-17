@@ -6,3 +6,7 @@
     -ms-user-select: none; /* Edge, IE */
     user-select: none; /* Modern browsers */
   }
+
+  .full-screen {
+    height: 100vh;
+  }
